@@ -19,6 +19,20 @@
 
   "renderers": {
 
+    //
+    // OpenApi3
+    //
+
+    "openapi3": {
+
+          // Relative path to the output folder
+          "outputFile": "doc.yaml",
+
+          // Renderer options
+          "title": "My API docs 2"
+
+
+        }
 
     //
     // Full HTML website
